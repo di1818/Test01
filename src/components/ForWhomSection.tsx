@@ -36,7 +36,7 @@ const ForWhomSection = () => (
           <div className="rounded-2xl border border-primary/20 bg-accent p-8 h-full">
             <h3 className="text-xl font-semibold mb-6 flex items-center gap-2">
               <CheckCircle className="h-6 w-6 text-primary" />
-              Для кого эта программа подойдёт
+              Подойдёт
               HR которые сталкиваются с:
             </h3>
             <p className="text-sm font-semibold mb-4">HR которые сталкиваются с:</p>

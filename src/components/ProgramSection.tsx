@@ -15,9 +15,6 @@ const ProgramSection = () => (
         <h2 className="text-3xl md:text-5xl font-bold font-display mb-4">
           <span className="text-gradient">Программа 4 модуля</span>
         </h2>
-        <p className="text-muted-foreground text-lg max-w-xl mx-auto">
-          <strong>Программа: 4 модуля</strong>
-        </p>
         <p className="text-muted-foreground text-lg max-w-xl mx-auto mt-3">
           8 недель, 1 раз в неделю по 2 часа. Практика и внедрение в вашей компании.
         </p>
