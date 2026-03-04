@@ -37,6 +37,7 @@ const ForWhomSection = () => (
             <h3 className="text-xl font-semibold mb-6 flex items-center gap-2">
               <CheckCircle className="h-6 w-6 text-primary" />
               Подойдёт
+              HR которые сталкиваются с:
             </h3>
             <p className="text-sm font-semibold mb-4">HR которые сталкиваются с:</p>
             <ul className="space-y-4">
