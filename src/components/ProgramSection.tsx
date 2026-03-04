@@ -13,13 +13,10 @@ const ProgramSection = () => (
     <div className="container">
       <Reveal className="text-center mb-16">
         <h2 className="text-3xl md:text-5xl font-bold font-display mb-4">
-          <span className="text-gradient">HR Инструментарий</span>
+          <span className="text-gradient">Программа 4 модуля</span>
         </h2>
-        <p className="text-muted-foreground text-lg max-w-xl mx-auto">
-          <strong>Сильный HR, который управляет системой — а не тушит пожары</strong>
-        </p>
         <p className="text-muted-foreground text-lg max-w-xl mx-auto mt-3">
-          8 недель практики и внедрения: найм, адаптация, метрики, роль HR в бизнесе — чтобы HR мог влиять на результат и говорить с руководством на языке бизнеса.
+          8 недель, 1 раз в неделю по 2 часа. Практика и внедрение в вашей компании.
         </p>
       </Reveal>
 
