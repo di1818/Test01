@@ -10,6 +10,7 @@ const artifacts = [
   { icon: ClipboardCheck, text: "План адаптации" },
   { icon: BarChart3, text: "Список HR-метрик и шаблоны отчётов" },
   { icon: Award, text: "Итоговый проект внедрения" },
+  { icon: MessageCircle, text: "6 месяцев сопровождения в Telegram-чате с ежемесячным разбором кейсов" },
 ];
 
 const ResultsSection = () => (
